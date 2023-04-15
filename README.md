@@ -1,2 +1,2 @@
-# blog
-Blog criado com html, css e php.
+# Blog
+'Blog criado com html, css e php.'
