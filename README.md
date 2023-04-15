@@ -1,2 +1,3 @@
 # Blog
-'Blog criado com html, css e php.'
+
+Blog criado com **HTML, CSS e PHP**
